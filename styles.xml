@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">#D32F2F</item>
+        <item name="colorPrimaryDark">#C2185B</item>
+        <item name="colorAccent">#FF4081</item>
+        <item name="android:statusBarColor">#C2185B</item> <!-- Change this to your desired status bar color -->
+        <item name="android:windowLightStatusBar">true</item> <!-- Optional: if you want light status bar icons -->
+    </style>
+
+</resources>

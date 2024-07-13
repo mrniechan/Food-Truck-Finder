@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Food Truck Finder</string>
+    <string name="logo_desc">App Logo</string>
+    <string name="back_button_desc">Back Button</string>
+    <string name="app_url">https://www.example.com/foodtruck</string>
+    <string name="copyright_info">© 2024 Food Truck Finder. All rights reserved.</string>
+    <string name="person_image">Person Image</string>
+</resources>
